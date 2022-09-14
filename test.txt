@@ -1,2 +1,2 @@
 Hi
-Login Page
+Login Link
